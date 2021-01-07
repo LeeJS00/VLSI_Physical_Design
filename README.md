@@ -16,7 +16,7 @@ This is the main points of the book, VLSI Physical Design.
 - Subgraph & nodes ⇒ block & cut set
 - Graph G(V,E), v ∈ V, v has s(v) : area, e ∈ E, e has w(e) : weight
     - Divide Graph G in to k subgraphs
-    - # of Connections btw partition minimize :  | cut set | min
+    - number of Connections btw partition minimize :  | cut set | min
     - Each particion meets all design constraints
     - Balace partition
     - NP-hard prob
